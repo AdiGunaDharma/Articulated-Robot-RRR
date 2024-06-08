@@ -1,0 +1,1 @@
+[DOF3_RRR,ArmInfo] = importrobot('Articulated_Robot_RRR');
